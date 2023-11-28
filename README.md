@@ -351,8 +351,6 @@ JWT_EXPIRES_IN=
 
 Your opinion and feedback are essential to me! I value your input as it helps me improve and grow. If you have any questions, suggestions, please don't hesitate to reach out. Your feedback will help me tailor future content to your needs.
 
-Thank you for joining me on this journey to build a professional Node.js project. I look forward to guiding you through the implementation of user authentication and helping you become a more skilled and confident developer. Stay tuned for the next chapters!
-
 ## Contact
 
 If you have any questions or feedback, feel free to contact me:
